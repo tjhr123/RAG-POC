@@ -1,3 +1,7 @@
 streamlit
 groq
 python-dotenv
+chromadb
+pypdf
+sentence-transformers
+pytest
